@@ -1,1 +1,1 @@
-Simple Spring veb application 
+Simple Spring web application 
